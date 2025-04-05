@@ -174,4 +174,3 @@ curl -I http://localhost:3300/myalias
 ## 📄 License
 
 MIT License. See `LICENSE` file for more info.
-# url-shortner
